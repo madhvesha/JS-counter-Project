@@ -1,0 +1,33 @@
+h1{
+    color: blue; background-color: beige;
+    ;padding: 10px; width: 350px ;margin:10px
+}
+#myp{
+    color:blueviolet;
+    font-size: 15px;
+    font-family: Arial;
+}
+button{
+    color:brown;
+    background-color: yellow;
+    height:40px;
+    width: 90px;
+    font-weight: bold;
+    border-radius: 5px;
+    border-color: red;
+    border-style: solid;
+    margin: 5px;
+    margin-top: 45px;
+    padding: 5px;
+}
+input{
+    color:rgb(109, 15, 231);
+    background-color: yellow;
+    height:35px;
+    width: 180px;
+    font-weight: bold;
+    border-radius: 5px;
+    border-color: rgb(133, 241, 19);
+    border-style: solid;
+    margin: 10px;
+}
